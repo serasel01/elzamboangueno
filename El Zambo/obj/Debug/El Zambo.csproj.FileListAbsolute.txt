@@ -1,0 +1,43 @@
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Bot Application.dll.config
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Bot Application.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Bot Application.pdb
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Autofac.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Chronic.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.Bot.Builder.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.Bot.Connector.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Newtonsoft.Json.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\QnAMakerDialog.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\System.Net.Http.Formatting.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\System.Web.Http.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\System.Web.Http.WebHost.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Autofac.xml
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.Bot.Builder.xml
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.Bot.Connector.xml
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\Newtonsoft.Json.xml
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\System.Net.Http.Formatting.xml
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\System.Web.Http.xml
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\System.Web.Http.WebHost.xml
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\obj\Debug\Bot Application.dll
+c:\users\serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\obj\Debug\Bot Application.pdb
+C:\Users\Serasel\documents\visual studio 2015\Projects\El Zambo\El Zambo\obj\Debug\El Zambo.csprojResolveAssemblyReference.cache
